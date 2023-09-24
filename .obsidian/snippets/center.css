@@ -1,0 +1,17 @@
+.mod-right-split .metadata-property[data-property-key*="side-note"] {
+  display: block;
+}
+
+.mod-right-split .metadata-property[data-property-key*="side-note"] .metadata-property-key, 
+.mod-right-split .metadata-property[data-property-key*="side-note"] .metadata-property-value
+{
+  border-bottom: none;
+}
+
+.mod-right-split .metadata-property[data-property-key*="side-note"] .metadata-input-longtext {
+  -webkit-line-clamp: unset;
+  background-color: rgba(var(--color-blue-rgb), .17);
+  border-radius: 8px;
+  max-height: 100%;
+}
+

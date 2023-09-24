@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "4ba717195656ac73",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31b5cce7f1bb49e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ee739bbd1214c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TrieuChung/Đau hạ sườn phải.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f3bfd2283c6f288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f4e4fad3fa48e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BenhHoc/Áp xe gan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02935baa347cad39",
+    "type": "split",
+    "children": [
+      {
+        "id": "461522fbeb706d4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a744ec59cd7bb0c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7f7816845ade197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fe6e363a7fe0847",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "970e50b40206ff13",
+    "type": "split",
+    "children": [
+      {
+        "id": "2953c944f5b86580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8826abd8184545cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TrieuChung/Đau hạ sườn phải.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f523d57ab861467b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TrieuChung/Đau hạ sườn phải.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c6058f6c42eb756",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ce3014d61bb8c97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TrieuChung/Đau hạ sườn phải.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "65cff02722b435cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76cf57320f6d3748",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TrieuChung/Đau hạ sườn phải.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792594,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c0ee739bbd1214c6",
+  "lastOpenFiles": [
+    "BenhHoc/Áp xe gan.md",
+    "TrieuChung/Đau hạ sườn phải.md",
+    "README.md",
+    "BenhHoc/Viêm đường mật cấp.md",
+    "BenhHoc/Viêm túi mật cấp.md",
+    "BenhHoc/Viêm ruột thừa.md",
+    "Đau hạ sườn phải.md",
+    "BenhHoc/Tắc ruột.md",
+    "TrieuChung/Vàng da.md",
+    "TrieuChung/Sốt.md",
+    "TrieuChung/Nôn ói.md",
+    "Đau bụng 1/4 trên phải.md",
+    "Đau bụng 1",
+    "TrieuChung/Đau bụng.md",
+    "000 Template/BenhHoc template.md",
+    "000 Template/TrieuChung template.md",
+    "TrieuChung/Tắc ruột.md",
+    "TrieuChung/{{title}}1.md",
+    "TrieuChung/{{title}}.md",
+    "TrieuChung/Tiêu ra máu.md",
+    "BenhHoc/Trĩ.md",
+    "Ho ra máu.md",
+    "000 Template",
+    "aaa.md",
+    "BenhHoc/Tess.md",
+    "TrieuChung",
+    "BenhHoc"
+  ]
+}
